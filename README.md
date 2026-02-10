@@ -44,7 +44,7 @@ To enable importing local modules:
 
 These files allow your project to behave like an installable Python package.
 
-📄 Refer to `crashcourse.txt` for a detailed explanation.
+📄 Refer to `projectflow.txt` for a detailed explanation.
 
 ---
 

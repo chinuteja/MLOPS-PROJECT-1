@@ -22,8 +22,8 @@ TEST_FILE_NAME: str = "test.csv"
 SCHEMA_FILE_PATH = os.path.join("config", "schema.yaml")
 
 # AWS Connection related constants keeping blank values for security purpose. Please set the values in environment variable before running the code.
-AWS_ACCESS_KEY_ID_ENV_KEY = "" 
-AWS_SECRET_ACCESS_KEY_ENV_KEY = ""
+AWS_ACCESS_KEY_ID_ENV_KEY = "AKIAVYCS2A2U2X7MWZNX" 
+AWS_SECRET_ACCESS_KEY_ENV_KEY = "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"
 REGION_NAME = "us-east-1"
 
 
